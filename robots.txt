@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /archive-260326/
+
+Sitemap: https://rurepetitordobryanka.ru/sitemap.xml

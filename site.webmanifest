@@ -1,0 +1,21 @@
+{
+  "name": "Репетитор по русскому языку в Добрянке",
+  "short_name": "Русский Добрянка",
+  "start_url": "https://rurepetitordobryanka.ru/",
+  "display": "standalone",
+  "background_color": "#f5f8ff",
+  "theme_color": "#155eef",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "https://rurepetitordobryanka.ru/"
+}
